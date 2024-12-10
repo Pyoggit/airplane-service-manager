@@ -2,7 +2,7 @@ package com.pyo.airplaneService.view;
 
 import java.sql.SQLException;
 
-import com.pyo.airplaneService.controller.BookingDAO;
+import com.pyo.airplaneService.model.BookingDAO;
 import com.pyo.airplaneService.model.BookingVO;
 
 public class BookingPrint {
