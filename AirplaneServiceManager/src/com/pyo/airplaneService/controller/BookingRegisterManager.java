@@ -3,9 +3,11 @@ package com.pyo.airplaneService.controller;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import com.pyo.airplaneService.model.BookingDAO;
 import com.pyo.airplaneService.model.BookingVO;
 import com.pyo.airplaneService.model.CustomerVO;
 import com.pyo.airplaneService.model.FlightVO;
+import com.pyo.airplaneService.model.SeatsDAO;
 import com.pyo.airplaneService.view.BookingPrint;
 
 

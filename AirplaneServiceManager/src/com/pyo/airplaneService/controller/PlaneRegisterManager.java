@@ -4,6 +4,7 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import com.pyo.airplaneService.model.PlaneDAO;
 import com.pyo.airplaneService.model.PlaneVO;
 
 

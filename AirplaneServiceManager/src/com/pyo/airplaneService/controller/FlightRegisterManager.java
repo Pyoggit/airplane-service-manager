@@ -5,6 +5,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import com.pyo.airplaneService.model.FlightDAO;
 import com.pyo.airplaneService.model.FlightVO;
 
 public class FlightRegisterManager {

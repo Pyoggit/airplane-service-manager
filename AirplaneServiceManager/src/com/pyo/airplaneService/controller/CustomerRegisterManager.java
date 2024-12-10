@@ -6,6 +6,7 @@ import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Scanner;
 
+import com.pyo.airplaneService.model.CustomerDAO;
 import com.pyo.airplaneService.model.CustomerVO;
 
 public class CustomerRegisterManager {

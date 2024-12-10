@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 import com.pyo.airplaneService.model.BookingVO;
+import com.pyo.airplaneService.model.SeatsDAO;
 import com.pyo.airplaneService.model.SeatsVO;
 
 public class SeatsRegisterManager {
