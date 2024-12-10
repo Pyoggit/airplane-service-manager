@@ -1,4 +1,4 @@
-package com.pyo.airplaneService.controller;
+package com.pyo.airplaneService.model;
 
 
 import java.sql.Connection;
@@ -10,7 +10,6 @@ import java.sql.Statement;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-import com.pyo.airplaneService.model.CustomerVO;
 import com.pyo.airplaneService.util.DBUtility;
 
 

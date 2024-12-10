@@ -1,4 +1,4 @@
-package com.pyo.airplaneService.controller;
+package com.pyo.airplaneService.model;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,7 +7,6 @@ import java.sql.SQLException;
 import java.sql.Timestamp;
 import java.util.ArrayList;
 
-import com.pyo.airplaneService.model.FlightVO;
 import com.pyo.airplaneService.util.DBUtility;
 
 

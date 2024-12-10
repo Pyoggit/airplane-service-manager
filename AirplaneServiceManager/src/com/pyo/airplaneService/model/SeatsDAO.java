@@ -1,12 +1,10 @@
-package com.pyo.airplaneService.controller;
+package com.pyo.airplaneService.model;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.util.ArrayList;
 
-import com.pyo.airplaneService.model.BookingVO;
-import com.pyo.airplaneService.model.SeatsVO;
 import com.pyo.airplaneService.util.DBUtility;
 
 public class SeatsDAO {

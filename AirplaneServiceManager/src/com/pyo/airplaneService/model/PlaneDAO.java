@@ -1,4 +1,4 @@
-package com.pyo.airplaneService.controller;
+package com.pyo.airplaneService.model;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -6,7 +6,6 @@ import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.util.ArrayList;
 
-import com.pyo.airplaneService.model.PlaneVO;
 import com.pyo.airplaneService.util.DBUtility;
 
 public class PlaneDAO {
