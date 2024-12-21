@@ -5,13 +5,17 @@
 ## 🗓 제작 기간 
 - 2024년 11월 28일 ~ 12월 1일
 
+
 ## 🛠 개발 환경
-- `Java`
-  - Eclipse IDE
-  - JDK 21.0.4
-- `Database`
-  - Oracle DB (21c Express Edition)
-  - SQL Developer (Version 23.1)
+### Language
+- **Java**: JDK 21.0.4
+
+### IDE
+- **Eclipse IDE**: 2023-09 (4.29)
+
+### Database
+- **Oracle DB**: 21c Express Edition
+- **SQL Developer**: Version 23.1
 
 
 ## 📌 주요 기능
